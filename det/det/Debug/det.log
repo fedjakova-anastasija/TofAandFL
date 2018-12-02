@@ -1,0 +1,10 @@
+﻿  det.cpp
+c:\users\fedia\desktop\study\ta\dsm\det\det\det.cpp(38): warning C4018: '<': signed/unsigned mismatch
+c:\users\fedia\desktop\study\ta\dsm\det\det\det.cpp(40): warning C4018: '<': signed/unsigned mismatch
+c:\users\fedia\desktop\study\ta\dsm\det\det\det.cpp(57): error C2512: 'StateMachineState': no appropriate default constructor available
+  c:\users\fedia\desktop\study\ta\dsm\det\det\det.cpp(6): note: see declaration of 'StateMachineState'
+c:\users\fedia\desktop\study\ta\dsm\det\det\det.cpp(85): warning C4018: '<': signed/unsigned mismatch
+c:\users\fedia\desktop\study\ta\dsm\det\det\det.cpp(151): warning C4018: '<': signed/unsigned mismatch
+c:\users\fedia\desktop\study\ta\dsm\det\det\det.cpp(154): warning C4018: '<': signed/unsigned mismatch
+c:\users\fedia\desktop\study\ta\dsm\det\det\det.cpp(157): error C2512: 'StateMachineState': no appropriate default constructor available
+  c:\users\fedia\desktop\study\ta\dsm\det\det\det.cpp(6): note: see declaration of 'StateMachineState'
