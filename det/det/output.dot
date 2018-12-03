@@ -1,7 +1,7 @@
 digraph DeterminatedStateMachine {
 0
 1
-2 [shape = box]
+2 [color = red]
 	0->1[label=0]
 	1->2[label=0]
 	1->1[label=1]

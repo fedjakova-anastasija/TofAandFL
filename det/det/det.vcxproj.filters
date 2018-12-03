@@ -18,18 +18,12 @@
     <ClInclude Include="pch.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="detor.h">
-      <Filter>Header Files</Filter>
-    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="pch.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
     <ClCompile Include="det.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="detor.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
