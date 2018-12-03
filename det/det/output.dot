@@ -1,7 +1,11 @@
 digraph Avtomatic {
-2 [color = red]
+0
+1
+2
+3 [color = red]
 	0->1[label=0]
-	1->2[label=0]
-	1->1[label=1]
-	2->1[label=0]
+	1->1[label=0]
+	1->2[label=1]
+	2->2[label=1]
+	2->3[label=2]
 }
