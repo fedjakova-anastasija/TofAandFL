@@ -1,6 +1,4 @@
-digraph DeterminatedStateMachine {
-0
-1
+digraph Avtomatic {
 2 [color = red]
 	0->1[label=0]
 	1->2[label=0]
