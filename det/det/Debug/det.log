@@ -1,7 +1,7 @@
 ﻿  det.cpp
 c:\users\fedia\desktop\study\ta\dsm\det\det\det.cpp(63): warning C4018: '<': signed/unsigned mismatch
 c:\users\fedia\desktop\study\ta\dsm\det\det\det.cpp(65): warning C4018: '<': signed/unsigned mismatch
-c:\users\fedia\desktop\study\ta\dsm\det\det\det.cpp(79): warning C4018: '<': signed/unsigned mismatch
-c:\users\fedia\desktop\study\ta\dsm\det\det\det.cpp(165): warning C4018: '<': signed/unsigned mismatch
-c:\users\fedia\desktop\study\ta\dsm\det\det\det.cpp(167): warning C4018: '<': signed/unsigned mismatch
+c:\users\fedia\desktop\study\ta\dsm\det\det\det.cpp(91): warning C4018: '<': signed/unsigned mismatch
+c:\users\fedia\desktop\study\ta\dsm\det\det\det.cpp(181): warning C4018: '<': signed/unsigned mismatch
+c:\users\fedia\desktop\study\ta\dsm\det\det\det.cpp(183): warning C4018: '<': signed/unsigned mismatch
   det.vcxproj -> C:\Users\fedia\Desktop\Study\TA\DSM\det\Debug\det.exe
