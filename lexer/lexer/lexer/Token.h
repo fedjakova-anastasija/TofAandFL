@@ -9,6 +9,8 @@ enum TokenType {
 	COMMENT,
 	DELIMITER,
 	DOT_DELIMITER,
+	COLON_DELIMITER,
+	SEMICOLON_DELIMITER,
 	STRING,
 	UNCLOSED_STRING,
 	ERROR
@@ -20,6 +22,7 @@ public:
 	size_t tokenFromString(std::string arg);
 	void clear();
 	void printToken() const;
+	void printAllToken() const;
 	std::string getValue() const;
 	std::string getType() const;
 	void setValue(const std::string &argValue);

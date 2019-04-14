@@ -27,7 +27,7 @@ ___a
 }
 
 for ford fo r
-
+var: a, b, c;
 hello => 2 "\n"
 = 123h
 a,b,ab; ; while {for fo} r forr =A=3=.
@@ -39,3 +39,5 @@ ifif
 25.31.2
 0b101,10
 "1 
+
+
